@@ -67,11 +67,11 @@ def menu_inicio():
     print('¡Bienvenidos al menú principal!\n')
 
     while True:
-        print('0. Salir')
         print('1. Crear carton')
         print('2. Ver carton')
         print('3. Pedir bola')
         print('4. Ver números salidos')
+        print('0. Salir')
 
         opcion = input('Elige una opción: ')
 
